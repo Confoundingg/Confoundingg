@@ -34,7 +34,7 @@ specialization:
 currently_building:
   - Custom Minecraft Software
   - High Performance Server Systems
-  - Minecraft Network Infrastructure
+  - Advanced PvP Infrastructure
 
 philosophy: "Build different. Build better."
 ```
@@ -59,62 +59,28 @@ I don't just want things to work. I want them to work exceptionally well.
 
 </div>
 
-## `03` — FEATURED PROJECTS
+## `03` — FEATURED PROJECT
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### ⚡ fSpigot
 
 **Custom Minecraft Server Software**
 
-A performance-focused Spigot fork built for competitive Minecraft environments.
+A custom-built, performance-focused Spigot fork designed for competitive Minecraft environments, with a strong focus on optimization, advanced PvP mechanics, administration and security.
 
-- Custom PvP mechanics
-- Server optimization
-- Advanced administration
-- Performance monitoring
-- Security enhancements
+</div>
 
-</td>
-<td width="50%">
+**Core features & development focus**
 
-### 🔥 Flashbak Network
+- ⚡ Custom PvP mechanics and knockback management
+- 🚀 Performance optimizations and resource monitoring
+- 🛡️ Advanced server protection and security enhancements
+- ⚙️ Custom administration commands and utilities
+- 📊 Server health monitoring, TPS, RAM and CPU statistics
+- 🔧 Extended server configuration and management
 
-**Minecraft PvP Network**
-
-A Minecraft network inspired by the golden era of competitive HCF.
-
-- HCF / HCFactions
-- KitMap
-- Practice
-- Bunkers
-- Potion Survival Games
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Hygon Network
-
-**Minecraft Network Infrastructure**
-
-Modern Minecraft server infrastructure, proxies, authentication and network systems.
-
-</td>
-<td width="50%">
-
-### 🛠️ More Projects
-
-**Always Building Something**
-
-Custom plugins, server systems, optimization tools and experimental software.
-
-</td>
-</tr>
-</table>
+*Built with performance, reliability and competitive Minecraft in mind.*
 
 ## `04` — GITHUB STATISTICS
 
