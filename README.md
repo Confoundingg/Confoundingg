@@ -1,22 +1,25 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:ea580c,100:09090b&height=220&section=header&text=CONFOUNDING&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Minecraft%20Infrastructure%20%7C%20Java&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:ea580c,100:09090b&height=220&section=header&text=CONFOUNDINGG&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Minecraft%20Infrastructure%20%7C%20Java&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/Confounding">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+things+that+stand+out.;Minecraft+Developer+%26+Server+Architect.;Turning+ideas+into+working+software.;Performance.+Innovation.+Precision." alt="Typing SVG"/>
+<a href="https://github.com/Confoundingg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+things+that+stand+out.;Minecraft+Developer+%26+Server+Architect.;Turning+ideas+into+working+software.;Performance.+Innovation.+Precision."/>
 </a>
 
 <br/>
 
-
-
-
+[![GitHub followers](https://img.shields.io/github/followers/Confoundingg?style=for-the-badge&logo=github&label=FOLLOWERS&color=ea580c)](https://github.com/Confoundingg?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Confoundingg?style=for-the-badge&logo=github&label=STARS&color=ea580c)](https://github.com/Confoundingg?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=Confoundingg&style=for-the-badge&color=ea580c&label=PROFILE+VIEWS)
 
 </div>
 
-01 — ABOUT ME
+---
 
-name: Confounding
+## `01` — ABOUT ME
+
+```yaml
+name: Confoundingg
 role: Developer & Server Architect
 location: Sweden 🇸🇪
 
@@ -34,6 +37,7 @@ currently_building:
   - Minecraft Network Infrastructure
 
 philosophy: "Build different. Build better."
+```
 
 I enjoy developing custom software, optimizing infrastructure, and building projects where performance and quality actually matter.
 
@@ -41,78 +45,70 @@ My main focus is Minecraft development, particularly custom server software, PvP
 
 I don't just want things to work. I want them to work exceptionally well.
 
-02 — TECH STACK
+## `02` — TECH STACK
 
 <div align="center">
 
-LANGUAGES
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" />
 
-TOOLS & INFRASTRUCTURE
+**TOOLS & INFRASTRUCTURE**
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,maven,gradle,docker,linux,mongodb,redis&theme=dark" />
 
 </div>
 
-03 — FEATURED PROJECTS
+## `03` — FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
-⚡ fSpigot
+### ⚡ fSpigot
 
-Custom Minecraft Server Software
+**Custom Minecraft Server Software**
 
 A performance-focused Spigot fork built for competitive Minecraft environments.
 
-Custom PvP mechanics
-
-Server optimization
-
-Advanced administration
-
-Performance monitoring
-
-Security enhancements
+- Custom PvP mechanics
+- Server optimization
+- Advanced administration
+- Performance monitoring
+- Security enhancements
 
 </td>
 <td width="50%">
 
-🔥 Flashbak Network
+### 🔥 Flashbak Network
 
-Minecraft PvP Network
+**Minecraft PvP Network**
 
 A Minecraft network inspired by the golden era of competitive HCF.
 
-HCF / HCFactions
-
-KitMap
-
-Practice
-
-Bunkers
-
-Potion Survival Games
+- HCF / HCFactions
+- KitMap
+- Practice
+- Bunkers
+- Potion Survival Games
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-🌐 Hygon Network
+### 🌐 Hygon Network
 
-Minecraft Network Infrastructure
+**Minecraft Network Infrastructure**
 
-Working with modern Minecraft server infrastructure, proxies, authentication and network systems.
+Modern Minecraft server infrastructure, proxies, authentication and network systems.
 
 </td>
 <td width="50%">
 
-🛠️ More Projects
+### 🛠️ More Projects
 
-Always Building Something
+**Always Building Something**
 
 Custom plugins, server systems, optimization tools and experimental software.
 
@@ -120,39 +116,41 @@ Custom plugins, server systems, optimization tools and experimental software.
 </tr>
 </table>
 
-04 — GITHUB STATISTICS
+## `04` — GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Confounding&show_icons=true&hide_border=true&bg_color=09090b&title_color=ea580c&icon_color=ea580c&text_color=ffffff&ring_color=ea580c&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Confoundingg&show_icons=true&hide_border=true&bg_color=09090b&title_color=ea580c&icon_color=ea580c&text_color=ffffff&ring_color=ea580c&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confounding&layout=compact&hide_border=true&bg_color=09090b&title_color=ea580c&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confoundingg&layout=compact&hide_border=true&bg_color=09090b&title_color=ea580c&text_color=ffffff" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Confounding&theme=dark&hide_border=true&background=09090b&ring=ea580c&fire=f97316&currStreakLabel=ea580c" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Confoundingg&theme=dark&hide_border=true&background=09090b&ring=ea580c&fire=f97316&currStreakLabel=ea580c" />
 
 </div>
 
-05 — CONTRIBUTION ACTIVITY
+## `05` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Confounding&bg_color=09090b&color=ea580c&line=f97316&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Confoundingg&bg_color=09090b&color=ea580c&line=f97316&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
+---
+
 <div align="center">
 
-CONNECT WITH ME
+### CONNECT WITH ME
 
-<a href="https://github.com/Confounding">
-<img src="https://img.shields.io/badge/GitHub-Confounding-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Confoundingg">
+<img src="https://img.shields.io/badge/GitHub-Confoundingg-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-"Great software isn't built by accident. It's built with intention."
+*"Great software isn't built by accident. It's built with intention."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:ea580c,100:09090b&height=120&section=footer" width="100%"/>
 
